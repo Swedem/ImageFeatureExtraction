@@ -1,0 +1,18 @@
+
+
+
+
+
+
+
+Neccessary packages, make sure you have it install
+
+pip install opencv-python
+pip install PyQt5
+pip install numpy
+pip install pandas
+pip install scipy
+pip install matplotlib
+
+
+After, do a pip list to check whether you've successfully installed them.
