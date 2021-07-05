@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/FeatureExt" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
